@@ -1,4 +1,4 @@
-baseURL = 'https://ericxu0213.github.io/AlephFrags/'
+baseURL = 'https://kyon213.github.io/AlephFrags/'
 locale = 'en-us'
 title = 'Aleph Frags'
 theme = 'hugo-book'
@@ -11,5 +11,5 @@ theme = 'hugo-book'
 [menu]
   [[menu.after]]
     name = "GitHub"
-    url = "https://github.com/ericxu0213/AlephFrags"
+    url = "https://github.com/kyon213/AlephFrags"
     weight = 10
